@@ -46,6 +46,7 @@ namespace TeamLunch.Logic
         }
 
         //==============================================================================
+        // EQUALS
 
         public override bool Equals(object obj)
         {
