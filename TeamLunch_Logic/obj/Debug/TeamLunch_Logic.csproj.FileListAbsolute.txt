@@ -1,0 +1,2 @@
+C:\Users\Sergey\Desktop\Work\Exercise\TeamLunch01\TeamLunch\TeamLunch_Logic\obj\Debug\TeamLunch_Logic.csproj.CoreCompileInputs.cache
+C:\Users\Sergey\Desktop\Work\Exercise\TeamLunch01\TeamLunch\TeamLunch_Logic\obj\Debug\TeamLunch_Logic.csprojResolveAssemblyReference.cache
